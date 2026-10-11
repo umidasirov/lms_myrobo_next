@@ -1,0 +1,104 @@
+{
+  "common": {
+    "loading": "Yuklanmoqda",
+    "error": "Xatolik yuz berdi",
+    "retry": "Qayta urinib ko'ring",
+    "cancel": "Bekor qilish",
+    "save": "Saqlash",
+    "close": "Yopish",
+    "delete": "O'chirish",
+    "edit": "Tahrirlash",
+    "back": "Orqaga",
+    "confirm": "Tasdiqlash",
+    "success": "Muvaffaqiyatli",
+    "no_data": "Ma'lumot topilmadi"
+  },
+  "layout": {
+    "home": "Bosh sahifa",
+    "courses": "Kurslar",
+    "blog": "Blog",
+    "mentors": "Mentorlar",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa",
+    "dark_mode": "Tunki rejim",
+    "light_mode": "Yorug' rejim",
+    "login": "Kirish",
+    "profile": "Profil",
+    "logout": "Chiqish",
+    "my_courses": "Mening kurslarim",
+    "language": "Til",
+    "simulator": "Simulator"
+  },
+  "home": {
+    "hero_title": "Kelajak kasbini biz bilan o'rganing",
+    "hero_description": "Zamonaviy mutaxassislarni tayyorlaydigan eng sifatli ta'lim markazi",
+    "courses_title": "Kurslar",
+    "blog_title": "Blog",
+    "about_title": "Biz haqimizda"
+  },
+  "courses": {
+    "title": "Barcha kurslar",
+    "all_courses": "Barcha kurslar",
+    "buy": "Sotib olish",
+    "enroll": "Ro'yxatdan o'tish",
+    "free": "Bepul",
+    "price": "Narx",
+    "duration": "Davomiyligi",
+    "view_course": "Kursni ko'rish",
+    "filter_by_category": "Toifalar bo'yicha saralash"
+  },
+  "course_detail": {
+    "buy_now": "Sotib olish",
+    "course_description": "Kurs haqida",
+    "course_curriculum": "Dastur",
+    "instructor": "Mentor",
+    "login_required": "Kursni ko'rish uchun tizimga kiring",
+    "buy_first": "Kursni sotib olish uchun ro'yxatdan o'ting"
+  },
+  "blog": {
+    "title": "Blog",
+    "recent_posts": "So'nggi maqolalar",
+    "read_more": "Batafsil o'qish",
+    "categories": "Kategoriyalar",
+    "author": "Muallif",
+    "date": "Sana"
+  },
+  "mentor": {
+    "title": "Mentorlar",
+    "experience": "Tajriba",
+    "teaches": "O'rgatadi",
+    "view_profile": "Profilni ko'rish",
+    "contact_mentor": "Mentorga yozish"
+  },
+  "about": {
+    "title": "Biz haqimizda",
+    "our_mission": "Bizning maqsadimiz",
+    "our_vision": "Bizning vizyonimiz",
+    "stats": {
+      "students": "Talabalar",
+      "courses": "Kurslar",
+      "mentors": "Mentorlar",
+      "years": "Yillar tajribasi"
+    }
+  },
+  "contact": {
+    "title": "Aloqa",
+    "contact_us": "Biz bilan bog'laning",
+    "phone": "Telefon",
+    "email": "Email",
+    "address": "Manzil",
+    "send_message": "Xabar yuborish",
+    "message": "Xabaringiz"
+  },
+  "auth": {
+    "kirish": "Kirish",
+    "login_success": "Muvaffaqiyatli kirdingiz",
+    "logout_success": "Tizimdan chiqdingiz",
+    "session_expired": "Sessiya tugadi",
+    "token_error": "Tasdiqlash xatosi"
+  },
+  "notification": {
+    "logout_success": "Tizimdan muvaffaqiyatli chiqdingiz",
+    "session_expired": "Sessiya muddati tugadi, qayta kiring"
+  }
+}

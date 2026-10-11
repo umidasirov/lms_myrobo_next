@@ -1,0 +1,182 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Try again",
+    "cancel": "Cancel",
+    "save": "Save",
+    "close": "Close",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "confirm": "Confirm",
+    "success": "Success",
+    "no_data": "No data found"
+  },
+  "nav": {
+    "bosh_sahifa": "Home",
+    "kurslar": "Courses",
+    "maqolalar": "Articles",
+    "aloqa": "Contact",
+    "kirish": "Login",
+    "chiqish": "Logout",
+    "profilim": "Profile",
+    "kurslarim": "My Courses",
+    "tungi_rejim": "Dark Mode",
+    "kunduzgi_rejim": "Light Mode",
+    "menu": "Menu"
+  },
+  "layout": {
+    "home": "Home",
+    "courses": "Courses",
+    "blog": "Blog",
+    "contact": "Contact",
+    "login": "Login",
+    "profile": "Profile",
+    "logout": "Logout",
+    "my_courses": "My Courses",
+    "dark_mode": "Dark mode",
+    "light_mode": "Light mode",
+    "language": "Language",
+    "simulator": "Simulator"
+  },
+  "home": {
+    "hero_title": "Learn technology, create your future!",
+    "hero_description": "Learn programming, robotics, and AI from experts with 5 years of experience.",
+    "hero_button": "View Courses",
+    "courses_title": "Courses",
+    "blog_title": "Articles",
+    "about_title": "About Us"
+  },
+  "courses": {
+    "title": "Courses",
+    "all_courses": "All Courses",
+    "buy": "Buy",
+    "enroll": "Enroll",
+    "free": "Free",
+    "price": "Price",
+    "duration": "Duration",
+    "view_course": "View Course",
+    "filter_by_category": "Filter by category"
+  },
+  "course_detail": {
+    "buy_now": "Buy Course",
+    "course_description": "About Course",
+    "course_curriculum": "Course Curriculum",
+    "instructor": "Mentor",
+    "login_required": "Log in to view this course",
+    "buy_first": "Sign up for the course"
+  },
+  "blog": {
+    "title": "Articles",
+    "recent_posts": "Recent Articles",
+    "read_more": "Read More",
+    "categories": "Categories",
+    "author": "Author",
+    "date": "Date"
+  },
+  "team": {
+    "title": "Mentors",
+    "subtitle": "Team",
+    "yil": "years",
+    "talabalar": "Students",
+    "kurslari": "Courses",
+    "aloqa": "Contact",
+    "badge": "OUR MENTORS",
+    "team_heading": "Professional team of mentors",
+    "team_subtitle": "Learn directly from experienced instructors",
+    "about_title": "About the mentor",
+    "no_about": "No information",
+    "students_label": "Students",
+    "courses_label": "Number of courses",
+    "courses_title": "Mentor's courses",
+    "no_courses": "No active courses",
+    "course_title_default": "Course name",
+    "course_free": "Free"
+  },
+  "team2": {
+    "about_title": "About the mentor",
+    "no_about": "No information",
+    "workplace_label": "Workplace",
+    "workplace_empty": "Not specified",
+    "students_label": "Students",
+    "courses_label": "Number of courses",
+    "courses_title": "Mentor's courses",
+    "no_courses": "No active courses",
+    "course_title_default": "Course name",
+    "course_free": "Free"
+  },
+  "about": {
+    "title": "About Us",
+    "our_mission": "Our Mission",
+    "our_vision": "Our Vision",
+    "read_more": "Read More",
+    "our_team": "Our Team",
+    "badge": "ABOUT US",
+    "heading": "Why choose us?",
+    "about_description": "MyRobo is a modern IT and robotics learning platform.",
+    "feature1_title": "Quality IT Education",
+    "feature2_title": "Online Format",
+    "feature3_title": "Experienced Instructors",
+    "feature4_title": "Reliable System",
+    "stat1_label": "EXPERT MATERIALS",
+    "stat2_label": "TOP DIRECTIONS",
+    "stat3_label": "ACTIVE STUDENTS",
+    "stat4_label": "RESULT",
+    "stats": {
+      "students": "Students",
+      "courses": "Courses",
+      "mentors": "Mentors",
+      "years": "Years of Experience"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch",
+    "name": "Your Name",
+    "email": "Telegram",
+    "message": "Your Message",
+    "send": "Send",
+    "sending": "Sending...",
+    "success": "Message sent",
+    "error": "An error occurred",
+    "phone": "Phone",
+    "address": "Address",
+    "address_text": "Tashkent, Uzbekistan",
+    "working_hours": "Working Hours",
+    "working_hours_text": "Mon - Fri: 09:00 - 18:00",
+    "social_media": "Social Media",
+    "page_subtitle": "Get in touch with us",
+    "contact_us_title": "Get in touch",
+    "boglanish": "Contact"
+  },
+  "notification": {
+    "logout_success": "You logged out successfully",
+    "session_expired": "Session expired, please log in again"
+  },
+  "auth": {
+    "kirish": "Login",
+    "login_success": "Logged in successfully",
+    "logout_success": "Logged out",
+    "session_expired": "Session expired",
+    "token_error": "Authorization error",
+    "chiqish": "Logout"
+  },
+  "languages": {
+    "uz": "O'zbek",
+    "ru": "Русский",
+    "en": "English",
+    "language": "Language"
+  },
+  "not_found": {
+    "title": "404 - Page not found",
+    "h1": "Page not found",
+    "description": "The page you're looking for doesn't exist or was removed.",
+    "button": "Back to Home"
+  },
+  "footer": {
+    "description": "MyRobo — platform for learning modern professions",
+    "copyright": "All rights reserved.",
+    "location": "Uzbekistan, Tashkent"
+  }
+}

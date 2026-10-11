@@ -1,0 +1,182 @@
+{
+  "common": {
+    "loading": "Загрузка...",
+    "error": "Произошла ошибка",
+    "retry": "Попробовать снова",
+    "cancel": "Отмена",
+    "save": "Сохранить",
+    "close": "Закрыть",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "back": "Назад",
+    "confirm": "Подтвердить",
+    "success": "Успешно",
+    "no_data": "Данные не найдены"
+  },
+  "nav": {
+    "bosh_sahifa": "Главная",
+    "kurslar": "Курсы",
+    "maqolalar": "Статьи",
+    "aloqa": "Контакты",
+    "kirish": "Вход",
+    "chiqish": "Выход",
+    "profilim": "Профиль",
+    "kurslarim": "Мои курсы",
+    "tungi_rejim": "Темный режим",
+    "kunduzgi_rejim": "Светлый режим",
+    "menu": "Меню"
+  },
+  "layout": {
+    "home": "Главная",
+    "courses": "Курсы",
+    "blog": "Статьи",
+    "contact": "Контакты",
+    "login": "Войти",
+    "profile": "Профиль",
+    "logout": "Выйти",
+    "my_courses": "Мои курсы",
+    "dark_mode": "Тёмный режим",
+    "light_mode": "Светлый режим",
+    "language": "Язык",
+    "simulator": "Симулятор"
+  },
+  "home": {
+    "hero_title": "Изучай технологии, создавай своё будущее!",
+    "hero_description": "Изучайте программирование, робототехнику и AI у специалистов с 5-летним опытом.",
+    "hero_button": "Смотреть курсы",
+    "courses_title": "Курсы",
+    "blog_title": "Статьи",
+    "about_title": "О нас"
+  },
+  "courses": {
+    "title": "Курсы",
+    "all_courses": "Все курсы",
+    "buy": "Купить",
+    "enroll": "Записаться",
+    "free": "Бесплатно",
+    "price": "Цена",
+    "duration": "Длительность",
+    "view_course": "Смотреть курс",
+    "filter_by_category": "Фильтр по категориям"
+  },
+  "course_detail": {
+    "buy_now": "Купить курс",
+    "course_description": "О курсе",
+    "course_curriculum": "Программа курса",
+    "instructor": "Ментор",
+    "login_required": "Войдите в систему для просмотра",
+    "buy_first": "Запишитесь на курс"
+  },
+  "blog": {
+    "title": "Статьи",
+    "recent_posts": "Последние статьи",
+    "read_more": "Читать далее",
+    "categories": "Категории",
+    "author": "Автор",
+    "date": "Дата"
+  },
+  "team": {
+    "title": "Менторы",
+    "subtitle": "Команда",
+    "yil": "лет",
+    "talabalar": "Ученики",
+    "kurslari": "Курсы",
+    "aloqa": "Контакты",
+    "badge": "НАШИ МЕНТОРЫ",
+    "team_heading": "Профессиональная команда",
+    "team_subtitle": "Учитесь у опытных преподавателей",
+    "about_title": "О менторе",
+    "no_about": "Информация отсутствует",
+    "students_label": "Ученики",
+    "courses_label": "Кол-во курсов",
+    "courses_title": "Курсы ментора",
+    "no_courses": "Нет активных курсов",
+    "course_title_default": "Название курса",
+    "course_free": "Бесплатно"
+  },
+  "team2": {
+    "about_title": "О менторе",
+    "no_about": "Нет информации",
+    "workplace_label": "Место работы",
+    "workplace_empty": "Не указано",
+    "students_label": "Ученики",
+    "courses_label": "Кол-во курсов",
+    "courses_title": "Курсы ментора",
+    "no_courses": "Нет активных курсов",
+    "course_title_default": "Название курса",
+    "course_free": "Бесплатно"
+  },
+  "about": {
+    "title": "О нас",
+    "our_mission": "Наша миссия",
+    "our_vision": "Наша визия",
+    "read_more": "Подробнее",
+    "our_team": "Наша команда",
+    "badge": "О НАС",
+    "heading": "Почему выбирают нас?",
+    "about_description": "MyRobo — современная IT и робототехническая платформа.",
+    "feature1_title": "Качественное IT-образование",
+    "feature2_title": "Онлайн-формат",
+    "feature3_title": "Опытные преподаватели",
+    "feature4_title": "Надёжная система",
+    "stat1_label": "ЭКСПЕРТНЫЕ МАТЕРИАЛЫ",
+    "stat2_label": "ТОП-НАПРАВЛЕНИЯ",
+    "stat3_label": "АКТИВНЫЕ УЧЕНИКИ",
+    "stat4_label": "РЕЗУЛЬТАТ",
+    "stats": {
+      "students": "Студенты",
+      "courses": "Курсы",
+      "mentors": "Менторы",
+      "years": "Лет опыта"
+    }
+  },
+  "contact": {
+    "title": "Контакты",
+    "subtitle": "Свяжитесь с нами",
+    "name": "Ваше имя",
+    "email": "Telegram",
+    "message": "Сообщение",
+    "send": "Отправить",
+    "sending": "Отправка...",
+    "success": "Сообщение отправлено",
+    "error": "Произошла ошибка",
+    "phone": "Телефон",
+    "address": "Адрес",
+    "address_text": "Ташкент, Узбекистан",
+    "working_hours": "Рабочее время",
+    "working_hours_text": "Пн - Пт: 09:00 - 18:00",
+    "social_media": "Соцсети",
+    "page_subtitle": "Свяжитесь с нами",
+    "contact_us_title": "Свяжитесь с нами",
+    "boglanish": "Связаться"
+  },
+  "notification": {
+    "logout_success": "Вы успешно вышли",
+    "session_expired": "Сессия истекла, войдите снова"
+  },
+  "auth": {
+    "kirish": "Вход",
+    "login_success": "Вы успешно вошли",
+    "logout_success": "Вы вышли",
+    "session_expired": "Сессия истекла",
+    "token_error": "Ошибка авторизации",
+    "chiqish": "Выход"
+  },
+  "languages": {
+    "uz": "O'zbek",
+    "ru": "Русский",
+    "en": "English",
+    "language": "Язык"
+  },
+  "not_found": {
+    "title": "404 - Страница не найдена",
+    "h1": "Страница не найдена",
+    "description": "Искомая страница не существует или удалена.",
+    "button": "На главную"
+  },
+  "footer": {
+    "description": "MyRobo — платформа для изучения профессий",
+    "copyright": "Все права защищены.",
+    "location": "Узбекистан, Ташкент"
+  }
+}
